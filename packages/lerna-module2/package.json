@@ -1,6 +1,6 @@
 {
   "name": "lerna-module2-zl",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "> TODO: description",
   "author": "zl-mdc <1424084297@qq.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "node ./lib/lerna-module2-zl.js"
   },
   "dependencies": {
-    "lerna-module1-zl": "^1.0.0"
+    "lerna-module1-zl": "^1.0.1"
   }
 }
